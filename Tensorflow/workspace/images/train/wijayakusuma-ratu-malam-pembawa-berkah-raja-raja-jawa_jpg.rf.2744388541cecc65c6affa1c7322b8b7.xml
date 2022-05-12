@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>wijayakusuma-ratu-malam-pembawa-berkah-raja-raja-jawa_jpg.rf.2744388541cecc65c6affa1c7322b8b7.jpg</filename>
+	<path>wijayakusuma-ratu-malam-pembawa-berkah-raja-raja-jawa_jpg.rf.2744388541cecc65c6affa1c7322b8b7.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>36</xmin>
+			<xmax>411</xmax>
+			<ymin>6</ymin>
+			<ymax>413</ymax>
+		</bndbox>
+	</object>
+</annotation>

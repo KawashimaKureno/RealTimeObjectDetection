@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Internet_20220424_012336_403_jpeg.rf.8ed8b76451881b4332c0c54e2e88f3b6.jpg</filename>
+	<path>Internet_20220424_012336_403_jpeg.rf.8ed8b76451881b4332c0c54e2e88f3b6.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rose-Mawar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>153</xmin>
+			<xmax>283</xmax>
+			<ymin>95</ymin>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>

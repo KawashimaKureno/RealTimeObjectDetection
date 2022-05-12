@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Manfaat-dan-kegunaan-bunga-kenanga-500x340_jpg.rf.5844f7ca64005360c2c7e520ec4feadd.jpg</filename>
+	<path>Manfaat-dan-kegunaan-bunga-kenanga-500x340_jpg.rf.5844f7ca64005360c2c7e520ec4feadd.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kenanga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>126</xmin>
+			<xmax>340</xmax>
+			<ymin>96</ymin>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+</annotation>

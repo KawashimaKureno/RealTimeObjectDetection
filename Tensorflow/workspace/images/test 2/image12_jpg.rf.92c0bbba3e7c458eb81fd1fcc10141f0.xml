@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>image12_jpg.rf.92c0bbba3e7c458eb81fd1fcc10141f0.jpg</filename>
+	<path>image12_jpg.rf.92c0bbba3e7c458eb81fd1fcc10141f0.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kupu-Kupu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>180</xmin>
+			<xmax>371</xmax>
+			<ymin>113</ymin>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>

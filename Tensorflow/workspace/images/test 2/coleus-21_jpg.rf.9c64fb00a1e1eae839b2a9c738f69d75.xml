@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>coleus-21_jpg.rf.9c64fb00a1e1eae839b2a9c738f69d75.jpg</filename>
+	<path>coleus-21_jpg.rf.9c64fb00a1e1eae839b2a9c738f69d75.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bunga Coleus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>20</xmin>
+			<xmax>397</xmax>
+			<ymin>23</ymin>
+			<ymax>397</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>kusuma-wijaya_jpg.rf.9d4aacfccae38cf2a3c997449fa6401f.jpg</filename>
+	<path>kusuma-wijaya_jpg.rf.9d4aacfccae38cf2a3c997449fa6401f.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

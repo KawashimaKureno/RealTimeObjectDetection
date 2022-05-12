@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>large-11-bunga-wijaya-9f71ed61777c12993ed810d34bb037ec_jpg.rf.4d5fbb54a344b312d0a18151a161ada1.jpg</filename>
+	<path>large-11-bunga-wijaya-9f71ed61777c12993ed810d34bb037ec_jpg.rf.4d5fbb54a344b312d0a18151a161ada1.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>58</xmin>
+			<xmax>332</xmax>
+			<ymin>14</ymin>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+</annotation>

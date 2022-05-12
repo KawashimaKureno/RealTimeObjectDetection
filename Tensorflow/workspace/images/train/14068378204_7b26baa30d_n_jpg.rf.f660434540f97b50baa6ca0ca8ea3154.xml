@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>14068378204_7b26baa30d_n_jpg.rf.f660434540f97b50baa6ca0ca8ea3154.jpg</filename>
+	<path>14068378204_7b26baa30d_n_jpg.rf.f660434540f97b50baa6ca0ca8ea3154.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TULIP</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>91</xmin>
+			<xmax>352</xmax>
+			<ymin>3</ymin>
+			<ymax>374</ymax>
+		</bndbox>
+	</object>
+</annotation>

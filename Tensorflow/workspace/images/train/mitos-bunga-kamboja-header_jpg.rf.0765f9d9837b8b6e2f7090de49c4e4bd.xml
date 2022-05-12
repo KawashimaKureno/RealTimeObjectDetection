@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>mitos-bunga-kamboja-header_jpg.rf.0765f9d9837b8b6e2f7090de49c4e4bd.jpg</filename>
+	<path>mitos-bunga-kamboja-header_jpg.rf.0765f9d9837b8b6e2f7090de49c4e4bd.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>123</xmin>
+			<xmax>415</xmax>
+			<ymin>29</ymin>
+			<ymax>413</ymax>
+		</bndbox>
+	</object>
+</annotation>

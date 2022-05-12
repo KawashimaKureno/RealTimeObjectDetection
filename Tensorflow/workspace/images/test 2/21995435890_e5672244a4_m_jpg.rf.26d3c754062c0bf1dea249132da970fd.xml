@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>21995435890_e5672244a4_m_jpg.rf.26d3c754062c0bf1dea249132da970fd.jpg</filename>
+	<path>21995435890_e5672244a4_m_jpg.rf.26d3c754062c0bf1dea249132da970fd.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SUN FLOWER</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>53</xmin>
+			<xmax>397</xmax>
+			<ymin>26</ymin>
+			<ymax>409</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>ANGGREK--133-_jpg.rf.731e56cc60ae63655bfb841302ba7b4b.jpg</filename>
+	<path>ANGGREK--133-_jpg.rf.731e56cc60ae63655bfb841302ba7b4b.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ANGGREK</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>55</xmin>
+			<xmax>399</xmax>
+			<ymin>31</ymin>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>

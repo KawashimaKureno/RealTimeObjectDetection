@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>images126_jpg.rf.f2ab8671bac60a95738370e9cb714fd2.jpg</filename>
+	<path>images126_jpg.rf.f2ab8671bac60a95738370e9cb714fd2.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Melati</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>16</xmin>
+			<xmax>326</xmax>
+			<ymin>29</ymin>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>

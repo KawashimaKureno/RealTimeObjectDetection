@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>significado-de-la-flor-del-jazmin-etimologia_jpg.rf.4060d13ad080faa6a14fcb0b7f085e17.jpg</filename>
+	<path>significado-de-la-flor-del-jazmin-etimologia_jpg.rf.4060d13ad080faa6a14fcb0b7f085e17.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Melati</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>169</xmin>
+			<xmax>369</xmax>
+			<ymin>102</ymin>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>bunga-wijaya-kusuma-mekar-di-malam-hari-222721809_jpg.rf.91497bc7327988b7a990d98bdc5c9a6e.jpg</filename>
+	<path>bunga-wijaya-kusuma-mekar-di-malam-hari-222721809_jpg.rf.91497bc7327988b7a990d98bdc5c9a6e.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

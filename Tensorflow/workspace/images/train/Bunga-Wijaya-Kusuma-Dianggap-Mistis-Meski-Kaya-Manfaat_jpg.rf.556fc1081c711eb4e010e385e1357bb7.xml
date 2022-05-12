@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Bunga-Wijaya-Kusuma-Dianggap-Mistis-Meski-Kaya-Manfaat_jpg.rf.556fc1081c711eb4e010e385e1357bb7.jpg</filename>
+	<path>Bunga-Wijaya-Kusuma-Dianggap-Mistis-Meski-Kaya-Manfaat_jpg.rf.556fc1081c711eb4e010e385e1357bb7.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>81</xmin>
+			<xmax>380</xmax>
+			<ymin>2</ymin>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+</annotation>

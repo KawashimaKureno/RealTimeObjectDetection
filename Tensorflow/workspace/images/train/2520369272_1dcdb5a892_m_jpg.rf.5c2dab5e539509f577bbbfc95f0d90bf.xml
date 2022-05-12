@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>2520369272_1dcdb5a892_m_jpg.rf.5c2dab5e539509f577bbbfc95f0d90bf.jpg</filename>
+	<path>2520369272_1dcdb5a892_m_jpg.rf.5c2dab5e539509f577bbbfc95f0d90bf.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ASTER</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>20</xmin>
+			<xmax>374</xmax>
+			<ymin>24</ymin>
+			<ymax>373</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>ANGGREK--183-_jpg.rf.04a012f270490b9df8cf7921e638478f.jpg</filename>
+	<path>ANGGREK--183-_jpg.rf.04a012f270490b9df8cf7921e638478f.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

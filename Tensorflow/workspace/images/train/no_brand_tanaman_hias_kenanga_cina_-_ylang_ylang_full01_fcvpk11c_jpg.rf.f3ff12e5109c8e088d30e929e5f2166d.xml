@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>no_brand_tanaman_hias_kenanga_cina_-_ylang_ylang_full01_fcvpk11c_jpg.rf.f3ff12e5109c8e088d30e929e5f2166d.jpg</filename>
+	<path>no_brand_tanaman_hias_kenanga_cina_-_ylang_ylang_full01_fcvpk11c_jpg.rf.f3ff12e5109c8e088d30e929e5f2166d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kenanga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>99</xmin>
+			<xmax>299</xmax>
+			<ymin>73</ymin>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+</annotation>

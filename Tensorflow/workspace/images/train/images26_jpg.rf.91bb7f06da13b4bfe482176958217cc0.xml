@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>images26_jpg.rf.91bb7f06da13b4bfe482176958217cc0.jpg</filename>
+	<path>images26_jpg.rf.91bb7f06da13b4bfe482176958217cc0.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kenanga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>27</xmin>
+			<xmax>108</xmax>
+			<ymin>153</ymin>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>

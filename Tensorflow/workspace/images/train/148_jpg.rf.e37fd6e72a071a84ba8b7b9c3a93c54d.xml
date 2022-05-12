@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>148_jpg.rf.e37fd6e72a071a84ba8b7b9c3a93c54d.jpg</filename>
+	<path>148_jpg.rf.e37fd6e72a071a84ba8b7b9c3a93c54d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aglonema</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>11</xmin>
+			<xmax>348</xmax>
+			<ymin>84</ymin>
+			<ymax>416</ymax>
+		</bndbox>
+	</object>
+</annotation>

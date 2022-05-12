@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>bunga-wijaya-kusuma-2_jpg.rf.5ca7858ec1e8d07897681f2d15d9fc8d.jpg</filename>
+	<path>bunga-wijaya-kusuma-2_jpg.rf.5ca7858ec1e8d07897681f2d15d9fc8d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>72</xmin>
+			<xmax>311</xmax>
+			<ymin>62</ymin>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>

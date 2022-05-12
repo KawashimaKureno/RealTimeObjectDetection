@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>000277-00_cerita-bunga-melati-yang-baik-hati_gambar-utama_800x450_cc0-min-800x450_jpg.rf.10775976ad7646e298ffc0ae5562608e.jpg</filename>
+	<path>000277-00_cerita-bunga-melati-yang-baik-hati_gambar-utama_800x450_cc0-min-800x450_jpg.rf.10775976ad7646e298ffc0ae5562608e.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Melati</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>179</xmin>
+			<xmax>404</xmax>
+			<ymin>19</ymin>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>
