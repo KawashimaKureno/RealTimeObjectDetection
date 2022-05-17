@@ -1,0 +1,60 @@
+item { 
+	name:'ANGGREK'
+	id:1
+}
+item { 
+	name:'SUN FLOWER'
+	id:2
+}
+item { 
+	name:'Calathea/marantaceae'
+	id:3
+}
+item { 
+	name:'NoMask'
+	id:4
+}
+item { 
+	name:'Kenanga'
+	id:5
+}
+item { 
+	name:'Kupu-Kupu'
+	id:6
+}
+item { 
+	name:'Melati'
+	id:7
+}
+item { 
+	name:'ROSE/MAWAR'
+	id:8
+}
+item { 
+	name:'Aglonema'
+	id:9
+}
+item { 
+	name:'ANGGREK'
+	id:10
+}
+item { 
+	name:'ASTER'
+	id:11
+}
+item { 
+	name:'Bunga Coleus'
+	id:12
+}
+item { 
+	name:'Holiday Cactus'
+	id:13
+}
+item { 
+	name:'TULIP'
+	id:14
+}
+item { 
+	name:'0'
+	id:15
+}
